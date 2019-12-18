@@ -1,0 +1,8 @@
+{
+    "name": "prezly/noto-sans",
+    "description": "Google Noto Sans fonts",
+    "type": "library",
+    "license": "SIL OPEN FONT LICENSE Version 1.1",
+    "minimum-stability": "stable",
+    "require": {}
+}
