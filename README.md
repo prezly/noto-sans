@@ -15,7 +15,7 @@ The usage is naive and simple. Just provice a direct path to the font file.
 No assets discovery is supported at the moment.
 
 ```php
-$path = 'path/to/vendor/prezly/noto-sans/NotoSans-Regular.ttf';
+$path = 'path/to/vendor/prezly/noto-sans/fonts/NotoSans-Regular.ttf';
 // use the font
 ```
 
