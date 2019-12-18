@@ -1,6 +1,6 @@
 # Noto Sans Fonts
 
-A subset of [xNoto](https://www.google.com/get/noto/) sans fonts to be used withing a PHP project as a dependency.
+A subset of [Noto](https://www.google.com/get/noto/) sans fonts to be used withing a PHP project as a dependency.
 
 ## Installation
 
@@ -10,7 +10,7 @@ composer require prezly/noto-sans
 
 ## Usage
 
-The usage is naive and simple. Just provice a direct path to the font file. 
+The usage is naive and simple. Just provide a direct path to the font file. 
 
 No assets discovery is supported at the moment.
 
